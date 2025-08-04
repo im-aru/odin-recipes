@@ -1,0 +1,27 @@
+* {
+  color: #cdd6f4;
+  padding:4px 12px;
+  margin: 0px;
+}
+
+.intext-link{
+  padding: 0px;
+}
+
+body {
+  background-color: #1E1E2E;
+}
+
+.mantle {
+  background-color: #181825;
+  padding: 16px;
+  margin:16px;
+}
+
+h2 {
+  color: #a6adc8;
+}
+
+h1{
+  margin:0px;
+}
